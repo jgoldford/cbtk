@@ -56,4 +56,13 @@ def download_nt_seqs(geneList,fileName,batchSize):
             fastafile.write(fseqs)
 
 
+def link(field1,field2):
+    url = 'http://rest.kegg.jp/link/' + field1 + '/' + field2
+    r = requests.get(url)
+    try:
+        df = pd.DataFrame([x.split('\t') for x in r.text.split('\n')],columns=['f1','f2'])
+        df = df.iloc[0:-1]
+    except:
+        df = None
+    return df
 
