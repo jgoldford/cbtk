@@ -66,3 +66,31 @@ def link(field1,field2):
         df = None
     return df
 
+
+def list(field1):
+    url = 'http://rest.kegg.jp/list/' + field1
+    r = requests.get(url)
+    try:
+        # columns=[field1,'description']
+        df = pd.DataFrame([x.split('\t') for x in r.text.split('\n')])
+        df = df.iloc[0:-1]
+    except:
+        df = None
+    return df
+
+def convert_genes_to_db(geneList,db,batchSize):
+    dfs = []
+    geneList_chunks = [geneList[i * batchSize:(i + 1) * batchSize] for i in range((len(geneList) + batchSize - 1) // batchSize )]
+    for sglist in geneList_chunks:
+        url =  'http://rest.kegg.jp/conv/' + db + '/' + "+".join(sglist) 
+        r = requests.get(url)
+        try:
+            # columns=[field1,'description']
+            df = pd.DataFrame([x.split('\t') for x in r.text.split('\n')])
+            df = df.iloc[0:-1]
+        except:
+            df = None
+        dfs.append(df)
+    dfs = pd.concat(dfs,axis=0)
+    return dfs
+   
