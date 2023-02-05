@@ -1,0 +1,1431 @@
+kegg_id,ncbi_id,superkingdom,phylum,class,order,family,genus,species,oxygen
+aaa,643561,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax avenae,Aerobe
+aae,224324,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Aquifex,Aquifex aeolicus,Facultative
+aah,272556,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter actinomycetemcomitans,Facultative
+aan,694569,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter actinomycetemcomitans,Facultative
+aao,754507,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter actinomycetemcomitans,Facultative
+aap,634176,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter aphrophilus,Facultative
+aat,668336,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter actinomycetemcomitans,Facultative
+aau,290340,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter aurescens,Aerobe
+aav,397945,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax citrulli,Aerobe
+aba,204669,Bacteria,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Candidatus Koribacter,Candidatus Koribacter versatilis,Aerobe
+abaa,470,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,[],Aerobe
+abad,945556,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Anaerobe
+abau,470,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,[],Aerobe
+abb,557600,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Aerobe
+abc,405416,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Aerobe
+abd,980514,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Anaerobe
+abi,439481,Archaea,Euryarchaeota,[],[],[],Aciduliprofundum,Aciduliprofundum boonei,Facultative
+abk,470,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,[],Aerobe
+abm,509170,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Aerobe
+abn,480119,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Aerobe
+abo,393595,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Alcanivoracaceae,Alcanivorax,Alcanivorax borkumensis,Aerobe
+abq,192,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,[],Aerobe
+abr,889738,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Aerobe
+abu,367737,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Arcobacter,Arcobacter butzleri,Aerobe
+abw,470,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,[],Aerobe
+aby,509173,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Aerobe
+abz,497978,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Aerobe
+aca,240015,Bacteria,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Acidobacterium,Acidobacterium capsulatum,Aerobe
+acb,400667,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Aerobe
+acc,871585,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter pittii,Aerobe
+acd,436717,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter oleivorans,Aerobe
+ace,351607,Bacteria,Actinobacteria,Actinobacteria,Acidothermales,Acidothermaceae,Acidothermus,Acidothermus cellulolyticus,Aerobe
+acf,673860,Archaea,Euryarchaeota,[],[],[],Aciduliprofundum,[],Facultative
+ach,452863,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Pseudarthrobacter,Pseudarthrobacter chlorophenolicus,Aerobe
+aci,62977,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,[],Aerobe
+acl,441768,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,Acholeplasma laidlawii,Facultative
+acm,1198114,Bacteria,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Granulicella,Granulicella tundricola,Aerobe
+acn,574556,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Anaplasma,Anaplasma centrale,Aerobe
+acp,455488,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter,Anaeromyxobacter dehalogenans,Anaerobe
+acr,349163,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acidiphilium,Acidiphilium cryptum,Aerobe
+acy,272123,Bacteria,Cyanobacteria,[],Nostocales,Nostocaceae,Anabaena,Anabaena cylindrica,Aerobe
+ade,290397,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter,Anaeromyxobacter dehalogenans,Anaerobe
+adg,429009,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Ammonifex,Ammonifex degensii,Anaerobe
+adk,596154,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Alicycliphilus,Alicycliphilus denitrificans,Facultative
+adn,596153,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Alicycliphilus,Alicycliphilus denitrificans,Facultative
+aeh,187272,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Alkalilimnicola,Alkalilimnicola ehrlichii,Anaerobe
+aex,573065,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Asticcacaulis,Asticcacaulis excentricus,Aerobe
+afe,380394,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus ferrooxidans,Aerobe
+afr,243159,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus ferrooxidans,Aerobe
+afw,404589,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter,[],Anaerobe
+aha,380703,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas hydrophila,Aerobe
+ain,568816,Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,Acidaminococcus,Acidaminococcus intestini,Anaerobe
+alv,572477,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Allochromatium,Allochromatium vinosum,Anaerobe
+amac,529120,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas macleodii,Aerobe
+amr,329726,Bacteria,Cyanobacteria,[],Synechococcales,Acaryochloridaceae,Acaryochloris,Acaryochloris marina,Aerobe
+ams,512565,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Actinoplanes,Actinoplanes missouriensis,Aerobe
+amt,293826,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Alkaliphilus,Alkaliphilus metalliredigens,Anaerobe
+amu,349741,Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,Akkermansia,Akkermansia muciniphila,Anaerobe
+amv,926570,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acidiphilium,Acidiphilium multivorum,Aerobe
+ana,103690,Bacteria,Cyanobacteria,[],Nostocales,Nostocaceae,Nostoc,[],Aerobe
+anb,46234,Bacteria,Cyanobacteria,[],Nostocales,Nostocaceae,Anabaena,[],Aerobe
+ank,447217,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter,[],Anaerobe
+aoe,350688,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Alkaliphilus,Alkaliphilus oremlandii,Anaerobe
+apa,537457,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Actinobacillus pleuropneumoniae,Facultative
+ape,272557,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Aeropyrum,Aeropyrum pernix,Aerobe
+apf,634453,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter pasteurianus,Aerobe
+apg,634459,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter pasteurianus,Aerobe
+aph,212042,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Anaplasma,Anaplasma phagocytophilum,Aerobe
+apj,434271,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Actinobacillus pleuropneumoniae,Facultative
+apk,1266844,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter pasteurianus,Aerobe
+apl,416269,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Actinobacillus pleuropneumoniae,Facultative
+apn,930171,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Pseudarthrobacter,Pseudarthrobacter phenanthrenivorans,Aerobe
+app,522306,Bacteria,Proteobacteria,Betaproteobacteria,[],[],Candidatus Accumulibacter,Candidatus Accumulibacter phosphatis,Aerobe
+apq,634455,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter pasteurianus,Aerobe
+apt,634452,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter pasteurianus,Aerobe
+apu,634454,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter pasteurianus,Aerobe
+apw,634458,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter pasteurianus,Aerobe
+apx,634456,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter pasteurianus,Aerobe
+apz,634457,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter pasteurianus,Aerobe
+ara,311403,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens,Aerobe
+arp,696747,Bacteria,Cyanobacteria,[],Oscillatoriales,Microcoleaceae,Arthrospira,Arthrospira platensis,Facultative
+art,290399,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Arthrobacter,[],Aerobe
+asa,382245,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas salmonicida,Facultative
+asc,666510,Archaea,Crenarchaeota,Thermoprotei,Acidilobales,Acidilobaceae,Acidilobus,Acidilobus saccharovorans,Anaerobe
+asg,59505,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinotignum,[],Facultative
+asi,696748,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Actinobacillus suis,Facultative
+ass,743972,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Actinobacillus suis,Facultative
+asu,339671,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Actinobacillus succinogenes,Facultative
+atu,176299,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium fabrum,Aerobe
+aur,866775,Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,Aerococcus urinae,Anaerobe
+ava,240292,Bacteria,Cyanobacteria,[],Nostocales,Nostocaceae,Anabaena,Anabaena variabilis,Aerobe
+avi,311402,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium vitis,Aerobe
+avr,998088,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas veronii,Aerobe
+axl,698758,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Amphibacillus,Amphibacillus xylanus,Anaerobe
+axy,762376,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter,Achromobacter xylosoxidans,Aerobe
+ayw,322098,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Candidatus Phytoplasma,Aster yellows witches'-broom phytoplasma,Aerobe
+azl,137722,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,Azospirillum lipoferum,Facultative
+azo,62928,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Azoarcus,[],Facultative
+babo,520450,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella abortus,Aerobe
+babr,520454,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella abortus,Aerobe
+babu,520455,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella abortus,Aerobe
+bac,398577,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia ambifaria,Facultative
+bad,367928,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium adolescentis,Anaerobe
+badl,1680,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,[],Anaerobe
+bado,1680,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,[],Anaerobe
+bae,720555,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Facultative
+baf,390236,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Borreliaceae,Borreliella,Borreliella afzelii,Aerobe
+bafz,390236,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Borreliaceae,Borreliella,Borreliella afzelii,Aerobe
+bah,568206,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus anthracis,Aerobe
+bai,592021,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus anthracis,Facultative
+bal,637380,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Aerobe
+bam,339670,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia ambifaria,Facultative
+ban,198094,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus anthracis,Aerobe
+banh,1392,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,[],Aerobe
+banm,28025,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,[],Anaerobe
+banr,673518,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus anthracis,Aerobe
+banv,261591,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus anthracis,Facultative
+bar,261594,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus anthracis,Facultative
+bat,260799,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus anthracis,Facultative
+bav,360910,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella avium,Aerobe
+bax,768494,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus anthracis,Aerobe
+bay,326423,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus velezensis,Aerobe
+bbb,552531,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium animalis,Anaerobe
+bbe,358681,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus brevis,Aerobe
+bbf,484020,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium bifidum,Anaerobe
+bbi,883062,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium bifidum,Anaerobe
+bbk,360095,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bartonellaceae,Bartonella,Bartonella bacilliformis,Aerobe
+bbl,331104,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Blattabacteriaceae,Blattabacterium,Blattabacterium sp. (Blattella germanica),Aerobe
+bbr,257310,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella bronchiseptica,Aerobe
+bbrs,936351,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium breve,Anaerobe
+bbru,326426,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium breve,Anaerobe
+bbt,288000,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,[],Aerobe
+bbu,224326,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Borreliaceae,Borreliella,Borreliella burgdorferi,Aerobe
+bbv,866777,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium breve,Anaerobe
+bca,222523,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Facultative
+bcb,405532,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Facultative
+bcd,696125,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bartonellaceae,Bartonella,Bartonella clarridgeiae,Aerobe
+bced,292,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,[],Facultative
+bcef,1396,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,[],Aerobe
+bcen,95486,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,[],Facultative
+bcew,95486,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,[],Facultative
+bcf,347495,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Aerobe
+bcg,405531,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Facultative
+bcj,216591,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cenocepacia,Aerobe
+bck,941639,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus coagulans,Facultative
+bcm,406425,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cenocepacia,Facultative
+bcn,331271,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cenocepacia,Facultative
+bcor,1687,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,[],Anaerobe
+bcq,361100,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Facultative
+bcr,405534,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Facultative
+bcs,483179,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella canis,Aerobe
+bcu,405535,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Facultative
+bcx,572264,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Facultative
+bcy,315749,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cytotoxicus,Facultative
+bcz,288681,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Facultative
+bde,401473,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium dentium,Anaerobe
+bdh,357276,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,[],Anaerobe
+bdl,350701,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia dolosa,Facultative
+bdo,357276,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,[],Anaerobe
+bdu,412419,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Borreliaceae,Borrelia,Borrelia duttonii,Aerobe
+bfr,295405,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Anaerobe
+bfs,272559,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Anaerobe
+bga,290434,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Borreliaceae,Borreliella,Borreliella bavariensis,Aerobe
+bge,640511,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,[],Facultative
+bgf,640512,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,[],Facultative
+bgl,626418,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia glumae,Aerobe
+bgp,595500,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia glumae,Aerobe
+bgr,634504,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bartonellaceae,Bartonella,Bartonella grahamii,Aerobe
+bha,272558,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus halodurans,Facultative
+bhe,283166,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bartonellaceae,Bartonella,Bartonella henselae,Aerobe
+bhr,314723,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Borreliaceae,Borrelia,Borrelia hermsii,Aerobe
+bhy,565034,Bacteria,Spirochaetes,Spirochaetia,Brachyspirales,Brachyspiraceae,Brachyspira,Brachyspira hyodysenteriae,Anaerobe
+bid,395963,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Beijerinckia,Beijerinckia indica,Aerobe
+bja,224911,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium diazoefficiens,Aerobe
+bjp,375,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,[],Aerobe
+bju,1037409,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium japonicum,Aerobe
+bla,442563,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium animalis,Anaerobe
+bld,279010,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus licheniformis,Facultative
+blg,722911,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium longum,Anaerobe
+blh,766760,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus paralicheniformis,Facultative
+bli,279010,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus licheniformis,Facultative
+blj,205913,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium longum,Anaerobe
+blm,565042,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium longum,Anaerobe
+bln,391904,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium longum,Anaerobe
+blo,206672,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium longum,Anaerobe
+blon,391904,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium longum,Anaerobe
+blt,555970,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium animalis,Anaerobe
+blv,573236,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium animalis,Anaerobe
+blx,216816,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,[],Anaerobe
+bma,243160,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia mallei,Aerobe
+bmb,262698,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella abortus,Facultative
+bmc,430066,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella abortus,Aerobe
+bmd,592022,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus megaterium,Facultative
+bme,224914,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella melitensis,Aerobe
+bmee,520466,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella melitensis,Aerobe
+bmel,224914,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella melitensis,Aerobe
+bmet,796606,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus methanolicus,Aerobe
+bmf,359391,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella abortus,Aerobe
+bmg,703352,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella melitensis,Aerobe
+bmj,395019,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia multivorans,Facultative
+bmk,87883,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,[],Aerobe
+bml,412022,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia mallei,Aerobe
+bmn,320389,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia mallei,Aerobe
+bmq,545693,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus megaterium,Aerobe
+bmr,568815,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella microti,Aerobe
+bmt,470137,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella suis,Aerobe
+bmu,395019,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia multivorans,Facultative
+bmv,320388,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia mallei,Aerobe
+bmz,941967,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella melitensis,Aerobe
+bov,444178,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella ovis,Facultative
+bpa,257311,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella parapertussis,Aerobe
+bpb,515622,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Butyrivibrio,Butyrivibrio proteoclasticus,Anaerobe
+bpd,320373,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia pseudomallei,Aerobe
+bpe,257313,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella pertussis,Aerobe
+bper,568706,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella pertussis,Aerobe
+bpet,743277,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella pertussis,Aerobe
+bpf,398511,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pseudofirmus,Facultative
+bph,391038,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phymatum,Facultative
+bpi,600809,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Blattabacteriaceae,Blattabacterium,Blattabacterium sp. (Periplaneta americana),Aerobe
+bpl,357348,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia pseudomallei,Aerobe
+bpm,320372,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia pseudomallei,Aerobe
+bpo,759914,Bacteria,Spirochaetes,Spirochaetia,Brachyspirales,Brachyspiraceae,Brachyspira,Brachyspira pilosicoli,Anaerobe
+bpp,520461,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella pinnipedialis,Aerobe
+bpr,536230,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia pseudomallei,Aerobe
+bprm,245012,Bacteria,Firmicutes,Clostridia,Clostridiales,[],[],[],Anaerobe
+bps,272560,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia pseudomallei,Aerobe
+bpse,1335307,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia pseudomallei,Aerobe
+bpu,315750,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pumilus,Aerobe
+bpum,1408,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,[],Aerobe
+bpy,398527,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phytofirmans,Facultative
+bpz,884204,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia pseudomallei,Aerobe
+bqu,283165,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bartonellaceae,Bartonella,Bartonella quintana,Aerobe
+bra,114615,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,[],Aerobe
+bre,412418,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Borreliaceae,Borrelia,Borrelia recurrentis,Aerobe
+bsb,633149,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas subvibrioides,Aerobe
+bse,439292,Bacteria,Firmicutes,Bacilli,Bacillales,Sporolactobacillaceae,[],[Bacillus] selenitireducens,Facultative
+bsn,936156,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis,Facultative
+bso,645657,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis,Facultative
+bsr,1052588,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis,Facultative
+bss,655816,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis,Facultative
+bsuc,645170,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella suis,Facultative
+bsui,645170,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella suis,Facultative
+bsup,645170,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella suis,Facultative
+bsuv,645170,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella suis,Facultative
+bsz,520487,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella suis,Aerobe
+btf,930170,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Facultative
+btg,527021,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Facultative
+bth,226186,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,Anaerobe
+bthr,570416,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Facultative
+bthu,529122,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Facultative
+btk,281309,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Facultative
+btl,412694,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Facultative
+btr,382640,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bartonellaceae,Bartonella,Bartonella tribocorum,Aerobe
+btu,314724,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Borreliaceae,Borrelia,Borrelia turicatae,Aerobe
+btx,85701,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bartonellaceae,Bartonella,[],Facultative
+bug,640510,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,[],Facultative
+buj,868597,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Stenotrophomonas maltophilia,Facultative
+bur,482957,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,[],Facultative
+bvi,269482,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia vietnamiensis,Facultative
+bvu,435590,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides vulgatus,Anaerobe
+bwe,315730,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus weihenstephanensis,Facultative
+bxb,266265,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia xenovorans,Aerobe
+bxe,266265,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia xenovorans,Aerobe
+caa,583355,Bacteria,Verrucomicrobia,Opitutae,Puniceicoccales,Puniceicoccaceae,Coraliomargarita,Coraliomargarita akajimensis,Aerobe
+cac,272562,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium acetobutylicum,Anaerobe
+cag,326427,Bacteria,Chloroflexi,Chloroflexia,Chloroflexales,Chloroflexaceae,Chloroflexus,Chloroflexus aggregans,Facultative
+cak,366602,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,[],Aerobe
+can,755178,Bacteria,Cyanobacteria,[],Chroococcales,Cyanobacteriaceae,Cyanobacterium,Cyanobacterium aponinum,Aerobe
+cat,216432,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Croceibacter,Croceibacter atlanticus,Aerobe
+cau,324602,Bacteria,Chloroflexi,Chloroflexia,Chloroflexales,Chloroflexaceae,Chloroflexus,Chloroflexus aurantiacus,Anaerobe
+cax,191610,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,[],Anaerobe
+cay,863638,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium acetobutylicum,Anaerobe
+cba,441770,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Anaerobe
+cbb,498213,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Anaerobe
+cbc,434924,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Coxiellaceae,Coxiella,Coxiella burnetii,Facultative
+cbd,434922,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Coxiellaceae,Coxiella,Coxiella burnetii,Facultative
+cbe,290402,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium beijerinckii,Anaerobe
+cbf,441772,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Anaerobe
+cbg,434923,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Coxiellaceae,Coxiella,Coxiella burnetii,Facultative
+cbh,441771,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Anaerobe
+cbi,515621,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Anaerobe
+cbj,941968,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Anaerobe
+cbl,498214,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Anaerobe
+cbm,758678,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Anaerobe
+cbo,413999,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Anaerobe
+cbs,360115,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Coxiellaceae,Coxiella,Coxiella burnetii,Facultative
+cbt,508767,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Anaerobe
+cbu,227377,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Coxiellaceae,Coxiella,Coxiella burnetii,Facultative
+cby,536232,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Anaerobe
+cce,394503,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium,[Clostridium] cellulolyticum,Anaerobe
+ccr,190650,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,Caulobacter vibrioides,Aerobe
+ccs,565050,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,Caulobacter vibrioides,Aerobe
+cct,717962,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,Coprococcus catus,Anaerobe
+cda,698970,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cdb,698973,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Aerobe
+cdc,645462,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Anaerobe
+cdd,698965,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cde,698968,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cdf,272563,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Anaerobe
+cdg,699034,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Anaerobe
+cdh,698972,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cdi,257309,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cdl,645463,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Anaerobe
+cdp,698966,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cdr,698969,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cds,698963,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cdt,698967,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cdv,698971,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cdw,698964,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cdz,698962,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,Facultative
+cgb,196627,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium glutamicum,Facultative
+cgc,292564,Bacteria,Cyanobacteria,[],Synechococcales,Synechococcaceae,Cyanobium,Cyanobium gracile,Aerobe
+cgj,1718,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,[],Facultative
+cgl,196627,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium glutamicum,Facultative
+cgq,1718,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,[],Facultative
+cgx,1718,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,[],Facultative
+chu,269798,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Cytophaga,Cytophaga hutchinsonii,Aerobe
+chy,246194,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Carboxydothermus,Carboxydothermus hydrogenoformans,Anaerobe
+cii,156978,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,[],Aerobe
+cja,498211,Bacteria,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Cellvibrio,Cellvibrio japonicus,Aerobe
+cjk,306537,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium jeikeium,Facultative
+ckl,431943,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium kluyveri,Anaerobe
+ckn,632348,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Caldicellulosiruptor,Caldicellulosiruptor kronotskyensis,Anaerobe
+ckp,645127,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium kroppenstedtii,Anaerobe
+ckr,583346,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium kluyveri,Anaerobe
+cli,290315,Bacteria,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Chlorobium,Chlorobium limicola,Anaerobe
+clt,1216932,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,[],Anaerobe
+cno,386415,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium novyi,Anaerobe
+cob,608506,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Caldicellulosiruptor,Caldicellulosiruptor obsidiansis,Anaerobe
+coi,935697,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium pseudotuberculosis,Facultative
+coo,751585,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,[],Anaerobe
+cpas,86416,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium pasteurianum,Anaerobe
+cpb,331678,Bacteria,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Chlorobium,Chlorobium phaeobacteroides,Facultative
+cpc,517417,Bacteria,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Chlorobaculum,Chlorobaculum parvum,Facultative
+cpe,195102,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium perfringens,Anaerobe
+cpf,195103,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium perfringens,Anaerobe
+cph,290317,Bacteria,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Chlorobium,Chlorobium phaeobacteroides,Facultative
+cpk,679896,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium pseudotuberculosis,Facultative
+cpo,309798,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermodesulfobiaceae,Coprothermobacter,Coprothermobacter proteolyticus,Anaerobe
+cpq,681645,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium pseudotuberculosis,Facultative
+cps,167879,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,Colwellia psychrerythraea,Facultative
+cpse,1719,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,[],Aerobe
+cpsf,1719,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,[],Aerobe
+cpsu,1719,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,[],Aerobe
+cpu,765874,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium pseudotuberculosis,Facultative
+cpx,889513,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium pseudotuberculosis,Facultative
+cpy,357809,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoclostridium,Lachnoclostridium phytofermentans,Anaerobe
+cpz,935298,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium pseudotuberculosis,Facultative
+crd,662755,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium resistens,Anaerobe
+cro,637910,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter rodentium,Facultative
+csc,351627,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Caldicellulosiruptor,Caldicellulosiruptor saccharolyticus,Anaerobe
+cse,509190,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,Caulobacter segnis,Aerobe
+csg,56107,Bacteria,Cyanobacteria,[],Nostocales,Nostocaceae,Cylindrospermum,Cylindrospermum stagnale,Aerobe
+cso,717608,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoclostridium,[Clostridium] saccharolyticum,Anaerobe
+csz,956149,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter sakazakii,Facultative
+ctc,212717,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Anaerobe
+cte,194439,Bacteria,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Chlorobaculum,Chlorobaculum tepidum,Anaerobe
+cthe,251229,Bacteria,Cyanobacteria,[],Chroococcidiopsidales,Chroococcidiopsidaceae,Chroococcidiopsis,Chroococcidiopsis thermalis,Aerobe
+ctm,981222,Bacteria,Acidobacteria,Blastocatellia,[],[],Chloracidobacterium,Chloracidobacterium thermophilum,Aerobe
+ctt,688245,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Comamonas,Comamonas testosteroni,Aerobe
+ctu,693216,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter turicensis,Facultative
+cua,1267754,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium urealyticum,Anaerobe
+cuc,945711,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium ulcerans,Facultative
+cul,945712,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium ulcerans,Facultative
+cur,504474,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium urealyticum,Anaerobe
+cuv,401472,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,[],Anaerobe
+cva,858619,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium variabile,Aerobe
+cvi,243365,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Chromobacteriaceae,Chromobacterium,Chromobacterium violaceum,Facultative
+cya,321327,Bacteria,Cyanobacteria,[],Synechococcales,Synechococcaceae,Synechococcus,[],Facultative
+cyb,321332,Bacteria,Cyanobacteria,[],Synechococcales,Synechococcaceae,Synechococcus,[],Facultative
+cyc,65393,Bacteria,Cyanobacteria,[],Oscillatoriales,Cyanothecaceae,Cyanothece,[],Anaerobe
+cyh,395962,Bacteria,Cyanobacteria,[],Oscillatoriales,Cyanothecaceae,Cyanothece,[],Aerobe
+cyj,497965,Bacteria,Cyanobacteria,[],Oscillatoriales,Cyanothecaceae,Cyanothece,[],Aerobe
+cyn,395961,Bacteria,Cyanobacteria,[],Oscillatoriales,Cyanothecaceae,Cyanothece,[],Anaerobe
+cyp,41431,Bacteria,Cyanobacteria,[],Oscillatoriales,Cyanothecaceae,Cyanothece,[],Aerobe
+dac,398578,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Delftia,Delftia acidovorans,Aerobe
+daf,690850,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio africanus,Anaerobe
+dak,589865,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,Desulfurivibrio,Desulfurivibrio alkaliphilus,Anaerobe
+dal,439235,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,Desulfatibacillum,Desulfatibacillum alkenivorans,Anaerobe
+dar,159087,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Dechloromonas,Dechloromonas aromatica,Facultative
+dau,477974,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Candidatus Desulforudis,Candidatus Desulforudis audaxviator,Anaerobe
+dba,525897,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfomicrobiaceae,Desulfomicrobium,Desulfomicrobium baculatum,Anaerobe
+dda,579405,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Dickeya,Dickeya paradisiaca,Facultative
+ddc,590409,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Dickeya,Dickeya zeae,Facultative
+ddl,871963,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfitobacterium,Desulfitobacterium dichloroeliminans,Anaerobe
+ddn,641491,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio desulfuricans,Anaerobe
+ddr,546414,Bacteria,Deinococcus-Thermus,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,Deinococcus deserti,Aerobe
+dds,525146,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio desulfuricans,Anaerobe
+deb,216389,Bacteria,Chloroflexi,Dehalococcoidia,Dehalococcoidales,Dehalococcoidaceae,Dehalococcoides,Dehalococcoides mccartyi,Anaerobe
+deg,633145,Bacteria,Chloroflexi,Dehalococcoidia,Dehalococcoidales,Dehalococcoidaceae,Dehalococcoides,Dehalococcoides mccartyi,Anaerobe
+deh,255470,Bacteria,Chloroflexi,Dehalococcoidia,Dehalococcoidales,Dehalococcoidaceae,Dehalococcoides,Dehalococcoides mccartyi,Anaerobe
+del,742013,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Delftia,[],Aerobe
+det,243164,Bacteria,Chloroflexi,Dehalococcoidia,Dehalococcoidales,Dehalococcoidaceae,Dehalococcoides,Dehalococcoides mccartyi,Anaerobe
+dev,311424,Bacteria,Chloroflexi,Dehalococcoidia,Dehalococcoidales,Dehalococcoidaceae,Dehalococcoides,Dehalococcoides mccartyi,Anaerobe
+dge,319795,Bacteria,Deinococcus-Thermus,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,Deinococcus geothermalis,Aerobe
+dhd,272564,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfitobacterium,Desulfitobacterium hafniense,Anaerobe
+dia,535289,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax ebreus,Facultative
+dly,552811,Bacteria,Chloroflexi,Dehalococcoidia,[],[],Dehalogenimonas,Dehalogenimonas lykanthroporepellens,Anaerobe
+dma,573370,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio magneticus,Anaerobe
+dni,1274,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Dermacoccaceae,Dermacoccus,[],Aerobe
+dno,246195,Bacteria,Proteobacteria,Gammaproteobacteria,Cardiobacteriales,Cardiobacteriaceae,Dichelobacter,Dichelobacter nodosus,Anaerobe
+dol,96561,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,Desulfococcus,Desulfococcus oleovorans,Anaerobe
+dps,177439,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,Desulfotalea,Desulfotalea psychrophila,Anaerobe
+dra,243230,Bacteria,Deinococcus-Thermus,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,Deinococcus radiodurans,Aerobe
+drm,349161,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,Desulfotomaculum reducens,Anaerobe
+drs,871738,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Dehalobacter,Dehalobacter restrictus,Anaerobe
+dsa,526222,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio salexigens,Anaerobe
+dsy,138119,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfitobacterium,Desulfitobacterium hafniense,Anaerobe
+dtu,515635,Bacteria,Dictyoglomi,Dictyoglomia,Dictyoglomales,Dictyoglomaceae,Dictyoglomus,Dictyoglomus turgidum,Anaerobe
+dvg,573059,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio vulgaris,Anaerobe
+dvl,391774,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio vulgaris,Anaerobe
+dvm,883,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio vulgaris,Anaerobe
+dvu,882,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio vulgaris,Anaerobe
+dze,561229,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Dickeya,Dickeya chrysanthemi,Facultative
+eab,655817,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eam,665029,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia amylovora,Facultative
+eat,360911,Bacteria,Firmicutes,Bacilli,Bacillales,[],Exiguobacterium,[],Facultative
+eba,76114,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Aromatoleum,Aromatoleum aromaticum,Facultative
+ebe,469008,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ebi,634500,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia billingiae,Facultative
+ebl,469008,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ebr,413997,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ebt,630626,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shimwellia,Shimwellia blattae,Facultative
+ebw,595496,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eca,218491,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium atrosepticum,Facultative
+ecas,565655,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus casseliflavus,Facultative
+ecc,199310,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecd,316385,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ece,155864,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecf,444450,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecg,574521,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eci,364106,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecj,316407,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eck,585055,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecl,481805,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eclg,550,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,[],Facultative
+ecli,550,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,[],Facultative
+ecln,550,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,[],Facultative
+eclo,718254,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter cloacae,Anaerobe
+eclx,550,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,[],Facultative
+ecly,550,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,[],Facultative
+eclz,550,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,[],Facultative
+ecm,439855,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecn,269484,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Ehrlichia,Ehrlichia canis,Aerobe
+ecp,362663,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecq,585397,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecr,585034,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecs,386585,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ect,585057,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecw,331111,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecx,331112,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecy,409438,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ecz,585035,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+edh,536056,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+edj,536056,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eel,515620,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,[Eubacterium] eligens,Anaerobe
+efa,226185,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Facultative
+efl,936153,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Facultative
+eic,634503,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Edwardsiella,Edwardsiella ictaluri,Facultative
+eih,714962,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+ekf,595495,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eko,595495,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+elc,885275,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eld,885276,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+elf,591946,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+elh,316401,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eli,314225,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Erythrobacter,Erythrobacter litoralis,Aerobe
+ell,566546,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+elm,903814,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,Eubacterium limosum,Anaerobe
+eln,685038,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+elo,216592,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+elp,910348,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+elu,869729,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+elw,566546,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+elx,741093,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+emi,445932,Bacteria,Elusimicrobia,Elusimicrobia,Elusimicrobiales,Elusimicrobiaceae,Elusimicrobium,Elusimicrobium minutum,Anaerobe
+enc,716541,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter cloacae,Aerobe
+ene,657310,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,[],Facultative
+ent,399742,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,[],Facultative
+eoc,1072459,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eoh,585395,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eoi,585396,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eoj,573235,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eok,701177,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+epr,644651,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia pyrifoliae,Facultative
+epy,634499,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia pyrifoliae,Facultative
+ere,515619,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[],[Eubacterium] rectale,Anaerobe
+erj,215689,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,[],Anaerobe
+esc,701347,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter lignolyticus,Facultative
+esr,717961,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium,[Eubacterium] siraeum,Anaerobe
+etd,718251,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Edwardsiella,Edwardsiella tarda,Facultative
+ete,667120,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Edwardsiella,Edwardsiella anguillarum,Facultative
+etr,498217,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Edwardsiella,Edwardsiella tarda,Facultative
+etw,544404,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+euc,717960,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Faecalitalea,Faecalitalea cylindroides,Anaerobe
+eum,585056,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+eun,696406,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Facultative
+faa,546269,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Filifactor,Filifactor alocis,Anaerobe
+fac,333146,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Ferroplasmaceae,Ferroplasma,Ferroplasma acidarmanus,Facultative
+fal,326424,Bacteria,Actinobacteria,Actinobacteria,Frankiales,Frankiaceae,Frankia,Frankia alni,Aerobe
+fbc,313603,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Maribacter,[],Aerobe
+fcf,984129,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+fcn,676032,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+fco,1041826,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,Aerobe
+fma,334413,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Finegoldia,Finegoldia magna,Anaerobe
+fne,457405,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium nucleatum,Anaerobe
+fno,381764,Bacteria,Thermotogae,Thermotogae,Thermotogales,Fervidobacteriaceae,Fervidobacterium,Fervidobacterium nodosum,Anaerobe
+fnt,469602,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium nucleatum,Anaerobe
+fnu,190304,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium nucleatum,Anaerobe
+fph,484022,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella philomiragia,Aerobe
+fps,402612,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium psychrophilum,Aerobe
+fpt,539329,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella philomiragia,Aerobe
+fra,106370,Bacteria,Actinobacteria,Actinobacteria,Frankiales,Frankiaceae,Frankia,[],Aerobe
+fre,298653,Bacteria,Actinobacteria,Actinobacteria,Frankiales,Frankiaceae,Frankia,[],Aerobe
+fri,298654,Bacteria,Actinobacteria,Actinobacteria,Frankiales,Frankiaceae,Frankia,[],Aerobe
+fsc,59374,Bacteria,Fibrobacteres,Fibrobacteria,Fibrobacterales,Fibrobacteraceae,Fibrobacter,Fibrobacter succinogenes,Anaerobe
+fsu,59374,Bacteria,Fibrobacteres,Fibrobacteria,Fibrobacterales,Fibrobacteraceae,Fibrobacter,Fibrobacter succinogenes,Anaerobe
+fsy,656024,Bacteria,Actinobacteria,Actinobacteria,Frankiales,Frankiaceae,Frankia,[],Aerobe
+fta,458234,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+ftc,119857,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+ftf,393115,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+fth,393011,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+fti,351581,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+ftl,376619,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+ftm,441952,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+ftn,401614,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+ftr,510831,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+ftt,1001534,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+ftu,177416,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+ftv,119857,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+ftz,119857,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,Aerobe
+fus,469607,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium nucleatum,Anaerobe
+gau,379066,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatimonas,Gemmatimonas aurantiaca,Aerobe
+gca,395494,Bacteria,Proteobacteria,Betaproteobacteria,Gallionellales,Gallionellaceae,Gallionella,Gallionella capsiferriformans,Aerobe
+gct,691437,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,[],Facultative
+gdi,272568,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Gluconacetobacter,Gluconacetobacter diazotrophicus,Aerobe
+gdj,272568,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Gluconacetobacter,Gluconacetobacter diazotrophicus,Aerobe
+geb,443143,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,[],Anaerobe
+gem,443144,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,[],Anaerobe
+geo,316067,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter daltonii,Anaerobe
+gfo,411154,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Gramella,Gramella forsetii,Aerobe
+gka,235909,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,Geobacillus kaustophilus,Aerobe
+glo,398767,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter lovleyi,Anaerobe
+gma,682795,Bacteria,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Granulicella,Granulicella mallensis,Aerobe
+gmc,581103,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,[],Facultative
+gme,269799,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter metallireducens,Anaerobe
+gor,337191,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Gordoniaceae,Gordonia,[],Aerobe
+gox,290633,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Gluconobacter,Gluconobacter oxydans,Aerobe
+gsk,663917,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter sulfurreducens,Anaerobe
+gth,634956,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Parageobacillus,Parageobacillus thermoglucosidans,Facultative
+gtn,420246,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,Geobacillus thermodenitrificans,Facultative
+gur,351605,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter uraniireducens,Anaerobe
+gva,553190,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Gardnerella,Gardnerella vaginalis,Anaerobe
+gvh,1009464,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Gardnerella,Gardnerella vaginalis,Anaerobe
+gwc,471223,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,[],Facultative
+gxy,634177,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Komagataeibacter,Komagataeibacter medellinensis,Aerobe
+gya,550542,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,[],Facultative
+gyc,544556,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,[],Facultative
+gym,481743,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,[],Facultative
+hac,382638,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter acinonychis,Aerobe
+hal,64091,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,Halobacterium salinarum,Aerobe
+hao,65093,Bacteria,Cyanobacteria,[],Chroococcales,Aphanothecaceae,Halothece,[],Anaerobe
+har,204773,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Herminiimonas,[],Anaerobe
+has,656519,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halanaerobiaceae,Halanaerobium,[],Anaerobe
+hau,316274,Bacteria,Chloroflexi,Chloroflexia,Herpetosiphonales,Herpetosiphonaceae,Herpetosiphon,Herpetosiphon aurantiacus,Aerobe
+hba,582402,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Hyphomonadaceae,Hirschia,Hirschia baltica,Aerobe
+hbu,415426,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Pyrodictiaceae,Hyperthermus,Hyperthermus butylicus,Anaerobe
+hch,349521,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Hahellaceae,Hahella,Hahella chejuensis,Anaerobe
+hdn,582899,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Hyphomicrobium,Hyphomicrobium denitrificans,Aerobe
+hdu,233412,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,[Haemophilus] ducreyi,Anaerobe
+hef,866344,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+heg,907240,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hel,768066,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,Halomonas elongata,Facultative
+heo,85962,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+heq,102608,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hes,907239,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hex,866346,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hha,349124,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Halorhodospira,Halorhodospira halophila,Anaerobe
+hho,547144,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Hydrogenobaculum,[],Aerobe
+hic,727,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,[],Facultative
+hie,262727,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,Facultative
+hih,727,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,[],Facultative
+hin,71421,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,Facultative
+hip,374930,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,Facultative
+hiq,374931,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,Facultative
+hit,281310,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,Facultative
+hiw,727,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,[],Facultative
+hix,727,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,[],Facultative
+hiz,262728,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,Facultative
+hla,416348,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Halorubrum,Halorubrum lacusprofundi,Aerobe
+hma,272569,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Haloarcula,Haloarcula marismortui,Aerobe
+hme,523841,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax mediterranei,Aerobe
+hmo,498761,Bacteria,Firmicutes,Clostridia,Clostridiales,Heliobacteriaceae,Heliobacterium,Heliobacterium modesticaldum,Anaerobe
+hne,228405,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Hyphomonadaceae,Hyphomonas,Hyphomonas neptunium,Aerobe
+hor,373903,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halanaerobiaceae,Halothermothrix,Halothermothrix orenii,Anaerobe
+hpa,357544,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpak,738,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,[],Facultative
+hpas,738,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,[],Facultative
+hpb,592205,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpc,765963,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpd,290847,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpf,866345,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpg,563041,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hph,907237,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpi,869727,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpl,693745,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpm,765962,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpo,585535,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpp,570508,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpq,985081,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hps,512562,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpt,794851,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpu,765964,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpw,985080,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpx,585538,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpy,85962,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hpz,684950,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,Aerobe
+hse,757424,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Herbaspirillum,Herbaspirillum seropedicae,Aerobe
+hsm,228400,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Histophilus,Histophilus somni,Facultative
+hso,205914,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Histophilus,Histophilus somni,Facultative
+hxa,797210,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halopiger,Halopiger xanaduensis,Aerobe
+hya,380749,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Hydrogenobaculum,[],Aerobe
+hym,1356852,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Hymenobacteraceae,Hymenobacter,[],Aerobe
+hys,547146,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Hydrogenobaculum,[],Aerobe
+ilo,283942,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Idiomarinaceae,Idiomarina,Idiomarina loihiensis,Aerobe
+iva,743718,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Promicromonosporaceae,Isoptericola,Isoptericola variabilis,Facultative
+jan,290400,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Jannaschia,[],Aerobe
+kom,571,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,[],Aerobe
+kpb,573,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,[],Facultative
+kpe,507522,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Facultative
+kpn,272620,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Facultative
+kpne,573,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,[],Facultative
+kpnu,573,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,[],Facultative
+kpu,484021,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Facultative
+kpx,573,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,[],Facultative
+kra,266940,Bacteria,Actinobacteria,Actinobacteria,Kineosporiales,Kineosporiaceae,Kineococcus,Kineococcus radiotolerans,Aerobe
+krh,378753,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Kocuria,Kocuria rhizophila,Aerobe
+kvl,759362,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Ketogulonicigenium,Ketogulonicigenium vulgare,Facultative
+kvu,880591,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Ketogulonicigenium,Ketogulonicigenium vulgare,Anaerobe
+lac,272621,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus acidophilus,Facultative
+lag,882944,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio anguillarum,Aerobe
+lai,891391,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus acidophilus,Facultative
+lam,695560,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus,Facultative
+lan,983544,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Lacinutrix,[],Aerobe
+lay,695562,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus amylovorus,Facultative
+lba,523794,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Leptotrichia buccalis,Anaerobe
+lbf,355278,Bacteria,Spirochaetes,Spirochaetia,[],Leptospiraceae,Leptospira,Leptospira biflexa,Aerobe
+lbh,511437,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus buchneri,Facultative
+lbi,456481,Bacteria,Spirochaetes,Spirochaetia,[],Leptospiraceae,Leptospira,Leptospira biflexa,Aerobe
+lbr,387344,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus brevis,Aerobe
+lbu,321956,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus delbrueckii,Facultative
+lca,321967,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus paracasei,Facultative
+lch,395495,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,[],Leptothrix,Leptothrix cholodnii,Aerobe
+lci,349519,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc citreum,Facultative
+lcr,748671,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus crispatus,Facultative
+lcz,498216,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus casei,Facultative
+ldb,390333,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus delbrueckii,Facultative
+lde,767455,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus delbrueckii,Facultative
+ldl,353496,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus delbrueckii,Facultative
+lep,111781,Bacteria,Cyanobacteria,[],Synechococcales,Leptolyngbyaceae,Leptolyngbya,[],Aerobe
+lfe,334390,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus fermentum,Facultative
+lga,324831,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus gasseri,Facultative
+lgr,420889,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus garvieae,Facultative
+lgv,420890,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus garvieae,Facultative
+lha,449,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,[],Aerobe
+lhd,1587,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,[],Facultative
+lhe,405566,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus helveticus,Facultative
+lhh,767456,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus helveticus,Facultative
+lhk,557598,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Chromobacteriaceae,Laribacter,Laribacter hongkongensis,Anaerobe
+lhl,767462,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus helveticus,Facultative
+lhr,880633,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus helveticus,Facultative
+lhv,326425,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus helveticus,Facultative
+lic,267671,Bacteria,Spirochaetes,Spirochaetia,[],Leptospiraceae,Leptospira,Leptospira interrogans,Aerobe
+lie,573825,Bacteria,Spirochaetes,Spirochaetia,[],Leptospiraceae,Leptospira,Leptospira interrogans,Aerobe
+lil,189518,Bacteria,Spirochaetes,Spirochaetia,[],Leptospiraceae,Leptospira,Leptospira interrogans,Aerobe
+lin,272626,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria innocua,Facultative
+liv,881621,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria ivanovii,Facultative
+ljo,257314,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus johnsonii,Facultative
+lki,762051,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc kimchii,Facultative
+lla,272623,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Facultative
+llc,272622,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Facultative
+llk,684738,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Facultative
+llm,416870,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Facultative
+lln,746361,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Facultative
+llo,661367,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella longbeachae,Aerobe
+lmf,265669,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmg,393126,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmh,552536,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmj,393130,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmk,427140,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Aerobe
+lmn,653938,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmo,169963,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmok,1639,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,[],Facultative
+lmom,1639,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,[],Facultative
+lmoo,879088,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmos,879090,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmot,879089,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmr,1437838,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lms,393127,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmt,393133,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmv,1639,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,[],Facultative
+lmy,637381,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lmz,863767,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,Facultative
+lpa,423212,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella pneumophila,Aerobe
+lpb,1590,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,[],Facultative
+lpc,400673,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella pneumophila,Aerobe
+lpf,297245,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella pneumophila,Aerobe
+lpl,220668,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus plantarum,Facultative
+lpn,272624,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella pneumophila,Aerobe
+lpp,297246,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella pneumophila,Aerobe
+lrg,568703,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus rhamnosus,Facultative
+lrh,568703,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus rhamnosus,Facultative
+lsa,314315,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus sakei,Facultative
+lsg,683837,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria seeligeri,Facultative
+lsl,362948,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus salivarius,Facultative
+lsn,714313,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus sanfranciscensis,Facultative
+lsp,444177,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lysinibacillus,Lysinibacillus sphaericus,Aerobe
+lxx,281090,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Leifsonia,Leifsonia xyli,Aerobe
+maa,347257,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma agalactiae,Facultative
+mac,188937,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanosarcina acetivorans,Anaerobe
+mad,225937,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,Marinobacter adhaerens,Aerobe
+mae,419665,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,Methanococcus,Methanococcus aeolicus,Anaerobe
+maf,572418,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium africanum,Aerobe
+mag,342108,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospirillum,Magnetospirillum magneticum,Aerobe
+mah,1091494,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomicrobium,Methylomicrobium alcaliphilum,Aerobe
+mal,2110,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,[],Facultative
+mam,754035,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium australicum,Aerobe
+maq,351348,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,Marinobacter hydrocarbonoclasticus,Facultative
+mar,449447,Bacteria,Cyanobacteria,[],Chroococcales,Microcystaceae,Microcystis,Microcystis aeruginosa,Aerobe
+mat,243272,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma arthritidis,Facultative
+mau,644283,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Micromonospora,Micromonospora aurantiaca,Aerobe
+mav,243243,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium avium,Aerobe
+mavi,1770,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium avium,Facultative
+mavu,1770,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium avium,Facultative
+mbb,410289,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium bovis,Aerobe
+mbc,743966,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma bovoculi,Facultative
+mbh,956483,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma bovis,Facultative
+mbi,767465,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma bovis,Facultative
+mbm,717522,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium bovis,Aerobe
+mbn,456442,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanoregulaceae,Methanoregula,Methanoregula boonei,Anaerobe
+mbo,233413,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium bovis,Aerobe
+mbt,561275,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium bovis,Aerobe
+mbu,259564,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanococcoides,Methanococcoides burtonii,Anaerobe
+mbv,289397,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma bovis,Facultative
+mca,243233,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylococcus,Methylococcus capsulatus,Aerobe
+mcat,480,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,[],Aerobe
+mcb,710421,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium chubuense,Aerobe
+mcd,512564,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma crocodyli,Facultative
+mce,1048245,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium canettii,Aerobe
+mch,440085,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium extorquens,Aerobe
+mci,765698,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium ciceri,Aerobe
+mcj,990316,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosaetaceae,Methanosaeta,Methanosaeta concilii,Anaerobe
+mcl,458233,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Macrococcus,Macrococcus caseolyticus,Facultative
+mco,572263,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma conjunctivae,Facultative
+mcp,340047,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma capricolum,Facultative
+mcs,480,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,[],Aerobe
+mcu,548479,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Mobiluncus,Mobiluncus curtisii,Anaerobe
+mdi,661410,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium extorquens,Aerobe
+mea,272630,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium extorquens,Aerobe
+mei,582744,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,Methylovorus,Methylovorus glucosotrophus,Aerobe
+mep,887061,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,Methylovorus,[],Facultative
+mes,266779,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Chelativorans,[],Aerobe
+met,426117,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,[],Aerobe
+mex,419610,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium extorquens,Facultative
+mez,1041930,Archaea,Euryarchaeota,Methanomicrobia,Methanocellales,Methanocellaceae,Methanocella,Methanocella conradii,Anaerobe
+mfa,265072,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,Methylobacillus,Methylobacillus flagellatus,Aerobe
+mfc,2162,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobacterium,[],Anaerobe
+mfe,573064,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus,Methanocaldococcus fervens,Anaerobe
+mfi,2162,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobacterium,[],Anaerobe
+mfl,265311,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Entomoplasmataceae,Mesoplasma,Mesoplasma florum,Facultative
+mfm,943945,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma fermentans,Facultative
+mfr,637387,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma fermentans,Facultative
+mfu,483219,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus fulvus,Aerobe
+mga,710127,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma gallisepticum,Facultative
+mge,243273,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma genitalium,Facultative
+mgf,708616,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma gallisepticum,Facultative
+mgh,710128,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma gallisepticum,Facultative
+mgi,350054,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium gilvum,Aerobe
+mgm,156889,Bacteria,Proteobacteria,Alphaproteobacteria,Magnetococcales,Magnetococcaceae,Magnetococcus,Magnetococcus marinus,Facultative
+mgq,662946,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma genitalium,Aerobe
+mgu,662947,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma genitalium,Aerobe
+mgx,662945,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma genitalium,Aerobe
+mha,941640,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma haemofelis,Facultative
+mhaq,75985,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,[],Facultative
+mhay,75985,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,[],Facultative
+mhc,1163748,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,Marinobacter hydrocarbonoclasticus,Anaerobe
+mhf,859194,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma haemofelis,Facultative
+mhm,936139,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma hyorhinis,Facultative
+mhn,907287,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma hyopneumoniae,Facultative
+mhp,262722,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma hyopneumoniae,Facultative
+mhr,872331,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma hyorhinis,Facultative
+mhu,323259,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum,Methanospirillum hungatei,Anaerobe
+mhv,634997,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma hyorhinis,Facultative
+mhy,295358,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma hyopneumoniae,Facultative
+mhyo,754503,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma hyopneumoniae,Facultative
+mhz,867904,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanomethylovorans,Methanomethylovorans hollandica,Anaerobe
+mia,487521,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium intracellulare,Aerobe
+mic,1173027,Bacteria,Cyanobacteria,[],Oscillatoriales,Microcoleaceae,Microcoleus,[],Anaerobe
+mid,1232724,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium indicus pranii,Aerobe
+mif,573063,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus,Methanocaldococcus infernus,Anaerobe
+mil,648999,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Micromonospora,[],Aerobe
+min,481448,Bacteria,Verrucomicrobia,[],Methylacidiphilales,Methylacidiphilaceae,Methylacidiphilum,Methylacidiphilum infernorum,Aerobe
+mja,243232,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus,Methanocaldococcus jannaschii,Anaerobe
+mjd,875328,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,[],Aerobe
+mjl,164757,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,[],Aerobe
+mka,190192,Archaea,Euryarchaeota,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus,Methanopyrus kandleri,Anaerobe
+mkm,189918,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,[],Aerobe
+mkn,557599,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium kansasii,Aerobe
+mla,410358,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum,Methanocorpusculum labreanum,Anaerobe
+mlc,880447,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma leachii,Facultative
+mle,272631,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium leprae,Aerobe
+mlh,866629,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma leachii,Facultative
+mli,459424,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium liflandii,Aerobe
+mlo,266835,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium loti,Aerobe
+mlu,465515,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Micrococcus,Micrococcus luteus,Aerobe
+mmb,583345,Bacteria,Proteobacteria,Betaproteobacteria,Methylophilales,Methylophilaceae,Methylotenera,Methylotenera mobilis,Aerobe
+mmc,164756,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,[],Aerobe
+mmg,79929,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanothermobacter,Methanothermobacter marburgensis,Anaerobe
+mml,862259,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma mycoides,Anaerobe
+mmo,267748,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma mobile,Facultative
+mmq,402880,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,Methanococcus,Methanococcus maripaludis,Anaerobe
+mmr,394221,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Hyphomonadaceae,Maricaulis,Maricaulis maris,Facultative
+mmt,857087,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomonas,Methylomonas methanica,Aerobe
+mmw,400668,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinomonas,[],Aerobe
+mmx,444158,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,Methanococcus,Methanococcus maripaludis,Anaerobe
+mmy,272632,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma mycoides,Facultative
+mmym,865867,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma mycoides,Anaerobe
+mmz,426368,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,Methanococcus,Methanococcus maripaludis,Anaerobe
+mno,460265,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium nodulans,Aerobe
+mok,647113,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,Methanothermococcus,Methanothermococcus okinawensis,Anaerobe
+mop,536019,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium opportunistum,Aerobe
+mox,671143,Bacteria,candidate division NC10,[],[],[],Candidatus Methylomirabilis,[],Anaerobe
+mpb,1238993,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma pneumoniae,Facultative
+mpc,491952,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinomonas,Marinomonas posidonica,Aerobe
+mpd,304371,Archaea,Euryarchaeota,Methanomicrobia,Methanocellales,Methanocellaceae,Methanocella,Methanocella paludicola,Anaerobe
+mpe,272633,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma penetrans,Facultative
+mpf,743965,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma putrefaciens,Facultative
+mph,1032480,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Microlunatus,Microlunatus phosphovorus,Aerobe
+mpo,441620,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium populi,Aerobe
+mpu,272635,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma pulmonis,Facultative
+mpz,443254,Bacteria,Thermotogae,Thermotogae,Petrotogales,[],Marinitoga,Marinitoga piezophila,Anaerobe
+mra,419947,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Aerobe
+mrd,426355,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium radiotolerans,Aerobe
+mrh,710685,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium rhodesiae,Aerobe
+mru,634498,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,Methanobrevibacter ruminantium,Anaerobe
+msb,246196,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium smegmatis,Aerobe
+mse,399549,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Metallosphaera,Metallosphaera sedula,Aerobe
+msg,246196,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium smegmatis,Aerobe
+msm,246196,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium smegmatis,Aerobe
+msp,278137,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium gilvum,Aerobe
+mss,768700,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma suis,Facultative
+mst,339860,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera,Methanosphaera stadtmanae,Anaerobe
+msu,221988,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Basfia,[Mannheimia] succiniciproducens,Anaerobe
+msy,262723,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma synoviae,Facultative
+mta,264732,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Moorella,Moorella thermoacetica,Anaerobe
+mtb,478434,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Aerobe
+mte,443149,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Aerobe
+mtf,336982,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Aerobe
+mth,187420,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanothermobacter,Methanothermobacter thermautotrophicus,Anaerobe
+mtk,478433,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Aerobe
+mtl,443150,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Aerobe
+mtn,652616,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Aerobe
+mto,707235,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Aerobe
+mtp,349307,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosaetaceae,Methanosaeta,Methanosaeta thermophila,Anaerobe
+mtul,395095,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Aerobe
+mtur,443149,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Aerobe
+mtz,478435,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Aerobe
+mul,362242,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium ulcerans,Aerobe
+mva,350058,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium vanbaalenii,Aerobe
+mvn,406327,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,Methanococcus,Methanococcus vannielii,Anaerobe
+mvo,456320,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,Methanococcus,Methanococcus voltae,Anaerobe
+mxa,246197,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus xanthus,Aerobe
+myc,36809,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,[],Aerobe
+mys,36809,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,[],Aerobe
+myt,743967,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma yeatsii,Facultative
+nam,598659,Bacteria,Proteobacteria,Epsilonproteobacteria,Nautiliales,Nautiliaceae,Nautilia,Nautilia profundicola,Anaerobe
+nar,279238,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,Novosphingobium aromaticivorans,Aerobe
+naz,551115,Bacteria,Cyanobacteria,[],Nostocales,Nostocaceae,Trichormus,Trichormus azollae,Aerobe
+nca,196162,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,[],Aerobe
+ndo,592029,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Nonlabens,Nonlabens dokdonensis,Aerobe
+nel,546263,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria elongata,Aerobe
+net,335283,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosomonas,Nitrosomonas eutropha,Aerobe
+neu,228410,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosomonas,Nitrosomonas europaea,Aerobe
+nfa,247156,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,Nocardia farcinica,Aerobe
+nge,797304,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronobacterium,Natronobacterium gregoryi,Aerobe
+ngk,521006,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria gonorrhoeae,Aerobe
+ngo,242231,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria gonorrhoeae,Aerobe
+nha,323097,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Nitrobacter,Nitrobacter hamburgensis,Aerobe
+nhl,472759,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Nitrosococcus,Nitrosococcus halophilus,Aerobe
+nii,261292,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosomonas,[],Aerobe
+nis,387092,Bacteria,Proteobacteria,Epsilonproteobacteria,[],[],Nitratiruptor,[],Anaerobe
+nit,153948,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosomonas,[],Aerobe
+nla,489653,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria lactamica,Aerobe
+nme,122586,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria meningitidis,Aerobe
+nmh,909420,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria meningitidis,Aerobe
+nmi,662598,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria meningitidis,Aerobe
+nmn,374833,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria meningitidis,Aerobe
+nmp,630588,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria meningitidis,Aerobe
+nmr,436308,Archaea,Thaumarchaeota,[],Nitrosopumilales,Nitrosopumilaceae,Nitrosopumilus,Nitrosopumilus maritimus,Aerobe
+nmt,604162,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria meningitidis,Aerobe
+nmu,323848,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosospira,Nitrosospira multiformis,Aerobe
+nmw,942513,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria meningitidis,Aerobe
+nmx,487,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,[],Aerobe
+noc,323261,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Nitrosococcus,Nitrosococcus oceani,Aerobe
+nop,28072,Bacteria,Cyanobacteria,[],Nostocales,Nostocaceae,Nostoc,[],Aerobe
+nos,317936,Bacteria,Cyanobacteria,[],Nostocales,Nostocaceae,Nostoc,[],Aerobe
+npe,797303,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natrinema,Natrinema pellirubrum,Aerobe
+npu,63737,Bacteria,Cyanobacteria,[],Nostocales,Nostocaceae,Nostoc,Nostoc punctiforme,Aerobe
+nri,434131,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Neorickettsia,Neorickettsia risticii,Aerobe
+nse,222891,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Neorickettsia,Neorickettsia sennetsu,Aerobe
+nth,457570,Bacteria,Firmicutes,Clostridia,Natranaerobiales,Natranaerobiaceae,Natranaerobius,Natranaerobius thermophilus,Anaerobe
+nwa,105559,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Nitrosococcus,Nitrosococcus watsonii,Aerobe
+nwi,323098,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Nitrobacter,Nitrobacter winogradskyi,Facultative
+nzs,980422,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Candidatus Phytoplasma,Candidatus Phytoplasma australiense,Aerobe
+oac,56110,Bacteria,Cyanobacteria,[],Oscillatoriales,Oscillatoriaceae,Oscillatoria,Oscillatoria acuminata,Aerobe
+oah,529,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum,[],Aerobe
+oan,439375,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum,Ochrobactrum anthropi,Aerobe
+oih,221109,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Oceanobacillus,Oceanobacillus iheyensis,Aerobe
+ooe,203123,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Oenococcus,Oenococcus oeni,Facultative
+orh,867902,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Ornithobacterium,Ornithobacterium rhinotracheale,Aerobe
+ote,452637,Bacteria,Verrucomicrobia,Opitutae,Opitutales,Opitutaceae,Opitutus,Opitutus terrae,Anaerobe
+ots,357244,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Orientia,Orientia tsutsugamushi,Aerobe
+ott,334380,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Orientia,Orientia tsutsugamushi,Aerobe
+pac,267747,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacteirum acnes,Anaerobe
+paeb,287,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,[],Aerobe
+paeu,1407059,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Aerobe
+paf,941193,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Aerobe
+pag,557722,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Aerobe
+pai,178306,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Pyrobaculum,Pyrobaculum aerophilum,Facultative
+pak,553199,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacteirum acnes,Anaerobe
+palk,237609,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,[],Aerobe
+pam,706191,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea ananatis,Facultative
+pao,592316,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,[],Facultative
+pap,381754,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Aerobe
+par,259536,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,Psychrobacter arcticus,Aerobe
+pat,342610,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas atlantica,Aerobe
+pau,208963,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Aerobe
+pbr,314260,Bacteria,Proteobacteria,Alphaproteobacteria,Parvularculales,Parvularculaceae,Parvularcula,Parvularcula bermudensis,Aerobe
+pcl,410359,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Pyrobaculum,Pyrobaculum calidifontis,Facultative
+pcr,335284,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,Psychrobacter cryohalolentis,Aerobe
+pct,561230,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium carotovorum,Facultative
+pde,318586,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Paracoccus denitrificans,Aerobe
+pdi,435591,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Parabacteroides,Parabacteroides distasonis,Anaerobe
+pdt,908937,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella dentalis,Anaerobe
+pdx,675635,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Pseudonocardia,Pseudonocardia dioxanivorans,Aerobe
+pen,384676,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas entomophila,Aerobe
+pfb,294,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,[],Aerobe
+pff,1334632,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens,Aerobe
+pfl,220664,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas protegens,Aerobe
+pfn,294,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,[],Aerobe
+pfo,205922,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens,Aerobe
+pfu,186497,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus,Pyrococcus furiosus,Anaerobe
+pfw,294,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,[],Aerobe
+pga,391619,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Phaeobacter,Phaeobacter inhibens,Aerobe
+pgi,242619,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas gingivalis,Anaerobe
+pgl,383629,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Phaeobacter,Phaeobacter inhibens,Aerobe
+pgn,431947,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas gingivalis,Anaerobe
+pha,326442,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas haloplanktis,Aerobe
+phe,485917,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Pedobacter,Pedobacter heparinus,Aerobe
+pho,70601,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus,Pyrococcus horikoshii,Anaerobe
+pin,357804,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Psychromonadaceae,Psychromonas,Psychromonas ingrahamii,Anaerobe
+pis,384616,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Pyrobaculum,Pyrobaculum islandicum,Anaerobe
+pit,246198,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella intermedia,Anaerobe
+pjd,324057,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,[],Aerobe
+pla,402881,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhodobiaceae,Parvibaculum,Parvibaculum lavamentivorans,Aerobe
+plt,319225,Bacteria,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Pelodictyon,Pelodictyon luteolum,Anaerobe
+plu,243265,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus luminescens,Facultative
+pmic,33033,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Parvimonas,[],Anaerobe
+pml,37692,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Candidatus Phytoplasma,[],Aerobe
+pmo,403833,Bacteria,Thermotogae,Thermotogae,Petrotogales,[],Petrotoga,Petrotoga mobilis,Anaerobe
+pmr,529507,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,Proteus mirabilis,Facultative
+pmy,399739,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas mendocina,Aerobe
+pmz,553174,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Anaerobe
+pna,365044,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Polaromonas,Polaromonas naphthalenivorans,Aerobe
+pne,452638,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Polynucleobacter,Polynucleobacter necessarius,Aerobe
+pnu,312153,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Polynucleobacter,Polynucleobacter asymbioticus,Aerobe
+pol,296591,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Polaromonas,[],Aerobe
+pom,313598,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Polaribacter,[],Aerobe
+poy,262768,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Candidatus Phytoplasma,Onion yellows phytoplasma,Aerobe
+ppc,767029,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Pseudopropionibacterium,Pseudopropionibacterium propionicum,Anaerobe
+ppd,338966,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Desulfuromonadaceae,Pelobacter,Pelobacter propionicus,Anaerobe
+ppe,278197,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Pediococcus,Pediococcus pentosaceus,Facultative
+ppf,351746,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas putida,Aerobe
+ppg,76869,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas putida,Aerobe
+pph,324925,Bacteria,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Pelodictyon,Pelodictyon phaeoclathratiforme,Anaerobe
+ppr,298386,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium,Photobacterium profundum,Facultative
+ppu,160488,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas putida,Aerobe
+ppud,303,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,[],Aerobe
+ppw,390235,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas putida,Aerobe
+pro,575614,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. oral taxon 299,Anaerobe
+pru,264731,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella ruminicola,Anaerobe
+prw,349106,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,[],Aerobe
+psb,205918,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Aerobe
+psl,530564,Bacteria,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,Pirellula,Pirellula staleyi,Aerobe
+psm,234831,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,[],Aerobe
+psp,264730,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas savastanoi,Aerobe
+pst,223283,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae group genomosp. 3,Aerobe
+pstt,316,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,[],Aerobe
+pstu,316,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,[],Aerobe
+psu,743721,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Pseudoxanthomonas,Pseudoxanthomonas suwonensis,Aerobe
+psx,588,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,[],Facultative
+psy,314282,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Psychromonadaceae,Psychromonas,[],Facultative
+pth,370438,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Pelotomaculum,Pelotomaculum thermopropionicum,Anaerobe
+ptq,313595,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Psychroflexus,Psychroflexus torquis,Aerobe
+pub,335992,Bacteria,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,Candidatus Pelagibacter,Candidatus Pelagibacter ubique,Aerobe
+puf,484770,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,[],Anaerobe
+pul,584721,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Pasteurella,Pasteurella multocida,Facultative
+pva,712898,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea vagans,Facultative
+pvi,290318,Bacteria,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Chlorobium,Chlorobium phaeovibrioides,Facultative
+pwa,561231,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium parmentieri,Facultative
+raf,347255,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia africae,Aerobe
+rah,741091,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Rahnella,[],Facultative
+rak,293614,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia akari,Aerobe
+ral,697329,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Ruminococcus albus,Anaerobe
+rba,243090,Bacteria,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,Rhodopirellula,Rhodopirellula baltica,Aerobe
+rbe,336407,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia bellii,Aerobe
+rbi,313596,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Robiginitalea,Robiginitalea biformata,Aerobe
+rbo,391896,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia bellii,Aerobe
+rce,414684,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Rhodospirillum,Rhodospirillum centenum,Facultative
+rch,213810,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,Ruminococcus champanellensis,Anaerobe
+rcm,293613,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia canadensis,Aerobe
+rco,272944,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia conorii,Aerobe
+rcp,272942,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter capsulatus,Facultative
+rde,375451,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter,Roseobacter denitrificans,Aerobe
+rdn,762948,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Rothia,Rothia dentocariosa,Aerobe
+rec,491916,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium etli,Aerobe
+reh,381666,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus necator,Aerobe
+rer,234621,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus erythropolis,Aerobe
+reu,264198,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus pinatubonensis,Aerobe
+rfe,315456,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia felis,Aerobe
+rfr,338969,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Rhodoferax,Rhodoferax ferrireducens,Anaerobe
+rha,101510,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus jostii,Aerobe
+rhi,394,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium fredii,Aerobe
+rho,585394,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Roseburia hominis,Anaerobe
+riv,373994,Bacteria,Cyanobacteria,[],Nostocales,Rivulariaceae,Rivularia,[],Aerobe
+rix,718255,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Roseburia intestinalis,Anaerobe
+rla,529884,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Rhodoluna,[],Aerobe
+rlb,754523,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Aerobe
+rlg,395491,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Aerobe
+rli,391595,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter,Roseobacter litoralis,Aerobe
+rlt,395492,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Aerobe
+rlu,1033991,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Aerobe
+rma,413404,Bacteria,Proteobacteria,Gammaproteobacteria,[],[],Candidatus Ruthia,Candidatus Ruthia magnifica,Aerobe
+rme,266264,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus metallidurans,Aerobe
+rms,416276,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia massiliae,Aerobe
+rop,632772,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus opacus,Aerobe
+rpb,316058,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Rhodopseudomonas,Rhodopseudomonas palustris,Facultative
+rpc,316056,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Rhodopseudomonas,Rhodopseudomonas palustris,Facultative
+rpd,316057,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Rhodopseudomonas,Rhodopseudomonas palustris,Facultative
+rpe,316055,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Rhodopseudomonas,Rhodopseudomonas palustris,Facultative
+rpf,428406,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia pickettii,Aerobe
+rpi,402626,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia pickettii,Aerobe
+rpk,562019,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia peacockii,Aerobe
+rpq,449216,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia prowazekii,Aerobe
+rpr,272947,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia prowazekii,Aerobe
+rpt,395960,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Rhodopseudomonas,Rhodopseudomonas palustris,Facultative
+rpx,652103,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Rhodopseudomonas,Rhodopseudomonas palustris,Facultative
+rri,392021,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia rickettsii,Aerobe
+rrj,452659,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia rickettsii,Aerobe
+rrs,357808,Bacteria,Chloroflexi,Chloroflexia,Chloroflexales,Roseiflexaceae,Roseiflexus,[],Facultative
+rsa,288705,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Renibacterium,Renibacterium salmoninarum,Facultative
+rsc,859656,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia solanacearum,Aerobe
+rsh,349101,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter sphaeroides,Facultative
+rsk,557760,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter sphaeroides,Facultative
+rsl,859657,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia solanacearum,Aerobe
+rsm,859655,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia solanacearum,Aerobe
+rso,267608,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia solanacearum,Aerobe
+rsp,272943,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter sphaeroides,Facultative
+rsq,349102,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter sphaeroides,Facultative
+rsv,941638,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia slovaca,Aerobe
+rta,365046,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Ramlibacter,Ramlibacter tataouinensis,Aerobe
+rtr,698761,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium tropici,Aerobe
+rty,257363,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia typhi,Aerobe
+rxy,266117,Bacteria,Actinobacteria,Rubrobacteria,Rubrobacterales,Rubrobacteraceae,Rubrobacter,Rubrobacter xylanophilus,Aerobe
+saa,451515,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sab,273036,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sac,93062,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sad,681288,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sae,426430,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sag,208435,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus agalactiae,Facultative
+sagc,1311,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,[],Facultative
+sage,1311,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,[],Facultative
+sagg,1311,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,[],Facultative
+sagp,1417990,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus agalactiae,Facultative
+sagt,342616,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus agalactiae,Facultative
+sah,359787,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sai,330779,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Aerobe
+saj,359786,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sal,317655,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,Sphingopyxis alaskensis,Aerobe
+salb,457425,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces albus,Aerobe
+sam,196620,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+san,211110,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus agalactiae,Facultative
+sanc,862971,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Anaerobe
+sang,862970,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Anaerobe
+sao,93061,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+saq,391037,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Salinispora,Salinispora arenicola,Aerobe
+sar,282458,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sat,56780,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophaceae,Syntrophus,Syntrophus aciditrophicus,Anaerobe
+sau,158879,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+saua,585143,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+saud,1280,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,[],Facultative
+sauf,1280,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,[],Facultative
+sav,158878,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+saw,418127,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sax,451516,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sbb,693974,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,Facultative
+sbc,344609,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella boydii,Facultative
+sbg,218493,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella bongori,Facultative
+sbh,749414,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces bingchenggensis,Aerobe
+sbl,325240,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,Facultative
+sbm,402882,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,Facultative
+sbn,399599,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,Facultative
+sbo,300268,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella boydii,Facultative
+sbp,407976,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,Facultative
+sbs,693970,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,Facultative
+sbt,693973,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,Facultative
+sbu,158189,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,Sphaerochaeta globosa,Anaerobe
+sca,396513,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus carnosus,Facultative
+scb,680198,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces scabiei,Aerobe
+scg,862969,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus constellatus,Anaerobe
+scl,448385,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,Sorangium,Sorangium cellulosum,Aerobe
+sco,100226,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces coelicolor,Aerobe
+scon,696216,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus constellatus,Anaerobe
+scos,862968,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus constellatus,Anaerobe
+scp,760570,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus parasanguinis,Aerobe
+sdc,759913,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus dysgalactiae,Facultative
+sde,203122,Bacteria,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Saccharophagus,Saccharophagus degradans,Aerobe
+sdn,318161,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella denitrificans,Facultative
+sds,486410,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus dysgalactiae,Facultative
+sdt,984892,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus pseudintermedius,Aerobe
+sdy,300267,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella dysenteriae,Facultative
+sdz,754093,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella dysenteriae,Facultative
+sea,454166,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sec,321314,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sed,439851,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+see,423368,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+seh,454169,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sei,476213,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sej,990282,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sek,554290,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sem,718274,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sen,405948,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Saccharopolyspora,Saccharopolyspora erythraea,Aerobe
+send,85569,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+seni,90371,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Aerobe
+senn,877468,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+seo,588858,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sep,176280,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Facultative
+seps,1282,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,[],Facultative
+seq,40041,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equi,Facultative
+ser,176279,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Facultative
+set,550537,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+seu,553482,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equi,Facultative
+sew,439843,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sey,216597,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sez,552526,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equi,Facultative
+sfd,1185652,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium fredii,Facultative
+sfe,591020,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella flexneri,Facultative
+sfl,198214,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella flexneri,Facultative
+sfr,318167,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella frigidimarina,Facultative
+sfu,335543,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacter,Syntrophobacter fumaroxidans,Anaerobe
+sfv,373384,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella flexneri,Facultative
+sfx,198215,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella flexneri,Facultative
+sgg,990317,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus gallolyticus,Aerobe
+sgo,467705,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus gordonii,Facultative
+sgp,158190,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,Sphaerochaeta pleomorpha,Anaerobe
+sgr,455632,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces griseus,Aerobe
+sha,279808,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus haemolyticus,Facultative
+she,60480,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,[],Anaerobe
+shl,458817,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella halifaxensis,Facultative
+shm,60481,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,[],Anaerobe
+shn,94122,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,[],Anaerobe
+shp,399804,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella putrefaciens,Anaerobe
+shw,351745,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,[],Facultative
+sia,427317,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus islandicus,Aerobe
+sib,862967,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus intermedius,Anaerobe
+sid,426118,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus islandicus,Aerobe
+sih,930943,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus islandicus,Facultative
+sii,425944,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus islandicus,Aerobe
+sil,246200,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Ruegeria,Ruegeria pomeroyi,Aerobe
+sim,427318,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus islandicus,Aerobe
+sin,419942,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus islandicus,Facultative
+sir,930945,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus islandicus,Facultative
+sis,429572,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus islandicus,Aerobe
+sit,292414,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Ruegeria,[],Aerobe
+siu,862966,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus intermedius,Anaerobe
+siy,439386,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus islandicus,Facultative
+sjj,488222,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+slg,698737,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus lugdunensis,Facultative
+sli,504472,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Spirosoma,Spirosoma linguale,Aerobe
+slo,323850,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella loihica,Anaerobe
+slp,643648,Bacteria,Firmicutes,Clostridia,Clostridiales,Syntrophomonadaceae,Syntrophothermus,Syntrophothermus lipocalidus,Anaerobe
+slt,580332,Bacteria,Proteobacteria,Betaproteobacteria,Gallionellales,Gallionellaceae,Sideroxydans,Sideroxydans lithotrophicus,Aerobe
+slv,457428,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces lividans,Aerobe
+sma,227882,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces avermitilis,Aerobe
+smb,365659,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mitis,Aerobe
+smc,511691,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans,Facultative
+smd,366394,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium medicae,Aerobe
+sme,266834,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium meliloti,Aerobe
+smer,382,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Sinorhizobium,[],Aerobe
+smq,698936,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium meliloti,Aerobe
+smt,391008,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Stenotrophomonas maltophilia,Aerobe
+smu,210007,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans,Facultative
+smx,707241,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium meliloti,Aerobe
+snc,525381,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+sne,561276,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+snm,488221,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+sno,639283,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Starkeya,Starkeya novella,Aerobe
+snp,574093,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+snt,487213,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+snu,869309,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+sol,555311,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus solfataricus,Aerobe
+son,211586,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella oneidensis,Facultative
+soz,471876,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+spa,286636,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+spb,319701,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+spc,319224,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella putrefaciens,Anaerobe
+spd,373153,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+spe,399741,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia proteamaculans,Facultative
+spf,160491,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+spg,198466,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+sph,370552,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+spi,370554,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+spj,370553,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+spm,186103,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+spne,869303,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+spng,697283,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Anaerobe
+spnm,869306,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+spno,869307,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+spnu,869304,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+spp,488223,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+spr,171101,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+sps,193567,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+spt,295319,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+spv,487214,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+spw,516950,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+spx,512566,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Facultative
+spy,160490,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+spz,293653,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Facultative
+sri,927704,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,Selenomonas ruminantium,Anaerobe
+srl,682634,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia plymuthica,Facultative
+ssa,388919,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus sanguinis,Facultative
+ssb,568814,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Facultative
+ssd,937773,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus pseudintermedius,Aerobe
+sse,425104,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella sediminis,Facultative
+ssf,993512,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Facultative
+ssg,546271,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,Selenomonas sputigena,Anaerobe
+ssi,218494,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Facultative
+ssj,216599,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella sonnei,Facultative
+ssm,573413,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sediminispirochaeta,Sediminispirochaeta smaragdinae,Anaerobe
+ssn,300269,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella sonnei,Facultative
+sso,273057,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus solfataricus,Aerobe
+ssp,342451,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus saprophyticus,Aerobe
+ssr,1048332,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus salivarius,Facultative
+sss,568813,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Facultative
+ssu,391295,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Facultative
+ssv,391296,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Facultative
+ssw,423211,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Facultative
+ssx,862751,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,[],Aerobe
+sta,665571,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Spirochaeta,Spirochaeta thermophila,Anaerobe
+ste,322159,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus thermophilus,Facultative
+stg,798300,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Anaerobe
+stj,347253,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus salivarius,Facultative
+stm,99287,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+stn,767463,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus thermophilus,Facultative
+stp,369723,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Salinispora,Salinispora tropica,Aerobe
+str,526218,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Sebaldella,Sebaldella termitidis,Anaerobe
+strs,1304,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,[],Anaerobe
+stt,209261,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sty,220341,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Facultative
+sub,218495,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus uberis,Facultative
+suc,889933,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sue,685039,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sui,945704,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Facultative
+suj,869816,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+suk,546342,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sul,436114,Bacteria,Aquificae,Aquificae,Aquificales,Hydrogenothermaceae,Sulfurihydrogenibium,[],Facultative
+sun,387093,Bacteria,Proteobacteria,Epsilonproteobacteria,[],[],Sulfurovum,[],Anaerobe
+suq,548473,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+sur,378806,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Cystobacteraceae,Stigmatella,Stigmatella aurantiaca,Aerobe
+sus,234267,Bacteria,Acidobacteria,Solibacteres,Solibacterales,Solibacteraceae,Candidatus Solibacter,Candidatus Solibacter usitatus,Aerobe
+suw,663951,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+suy,703339,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Facultative
+svl,653045,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces violaceusniger,Aerobe
+svo,637905,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella violacea,Facultative
+swi,392499,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas wittichii,Aerobe
+swp,225849,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella piezotolerans,Facultative
+sxl,1288,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,[],Aerobe
+sxo,1288,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,[],Aerobe
+sxy,1288,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,[],Aerobe
+syc,269084,Bacteria,Cyanobacteria,[],Synechococcales,Synechococcaceae,Synechococcus,Synechococcus elongatus,Facultative
+syf,1140,Bacteria,Cyanobacteria,[],Synechococcales,Synechococcaceae,Synechococcus,Synechococcus elongatus,Facultative
+syh,166314,Bacteria,Cyanobacteria,[],Synechococcales,Synechococcaceae,Synechococcus,[],Facultative
+syn,1148,Bacteria,Cyanobacteria,[],Synechococcales,Merismopediaceae,Synechocystis,[],Facultative
+syne,195253,Bacteria,Cyanobacteria,[],Synechococcales,Synechococcaceae,Synechococcus,[],Aerobe
+syp,32049,Bacteria,Cyanobacteria,[],Synechococcales,Synechococcaceae,Synechococcus,[],Facultative
+syr,316278,Bacteria,Cyanobacteria,[],Synechococcales,Synechococcaceae,Synechococcus,[],Facultative
+syy,1148,Bacteria,Cyanobacteria,[],Synechococcales,Merismopediaceae,Synechocystis,[],Facultative
+syz,1148,Bacteria,Cyanobacteria,[],Synechococcales,Merismopediaceae,Synechocystis,[],Facultative
+tae,1209989,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Tepidanaerobacter,Tepidanaerobacter acetatoxydans,Aerobe
+taf,484019,Bacteria,Thermotogae,Thermotogae,Thermotogales,Fervidobacteriaceae,Thermosipho,Thermosipho africanus,Anaerobe
+taz,545695,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema azotonutricium,Anaerobe
+tbd,292415,Bacteria,Proteobacteria,Betaproteobacteria,Hydrogenophilales,Hydrogenophilaceae,Thiobacillus,Thiobacillus denitrificans,Facultative
+tcx,317025,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Thiomicrospira,Thiomicrospira crunogena,Anaerobe
+tde,243275,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema denticola,Anaerobe
+tdn,326298,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Sulfurimonas,Sulfurimonas denitrificans,Anaerobe
+tep,1209989,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Tepidanaerobacter,Tepidanaerobacter acetatoxydans,Aerobe
+ter,203124,Bacteria,Cyanobacteria,[],Oscillatoriales,Microcoleaceae,Trichodesmium,Trichodesmium erythraeum,Aerobe
+tex,399726,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Thermoanaerobacter,[],Anaerobe
+tfo,203275,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Tannerella,Tannerella forsythia,Anaerobe
+tfu,269800,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Nocardiopsaceae,Thermobifida,Thermobifida fusca,Aerobe
+tga,593117,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus gammatolerans,Anaerobe
+tgr,396588,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalivibrio,Thioalkalivibrio sulfidiphilus,Facultative
+thr,126738,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga,[],Anaerobe
+thx,573062,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Thermoanaerobacter,[],Anaerobe
+tin,75379,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,[],Thiomonas,Thiomonas intermedia,Aerobe
+tjr,635013,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Thermincola,Thermincola potens,Anaerobe
+tkm,396595,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalivibrio,[],Aerobe
+tle,416591,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Pseudothermotoga,Pseudothermotoga lettingae,Anaerobe
+tma,243274,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga,Thermotoga maritima,Anaerobe
+tmc,451,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Tatlockia,[],Aerobe
+tme,391009,Bacteria,Thermotogae,Thermotogae,Thermotogales,Fervidobacteriaceae,Thermosipho,Thermosipho melanesiensis,Anaerobe
+tmi,243274,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga,Thermotoga maritima,Anaerobe
+tmm,243274,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga,Thermotoga maritima,Anaerobe
+tmz,85643,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Thauera,[],Facultative
+tnp,590168,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga,Thermotoga naphthophila,Anaerobe
+tos,751945,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus oshimai,Anaerobe
+tpa,243276,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema pallidum,Anaerobe
+tpc,491079,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema pallidum,Anaerobe
+tpe,368408,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermofilaceae,Thermofilum,Thermofilum pendens,Anaerobe
+tpg,491080,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema pallidum,Anaerobe
+tph,666714,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema pallidum,Anaerobe
+tpi,545694,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema primitia,Anaerobe
+tpl,545776,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema paraluiscuniculi,Anaerobe
+tpm,491078,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema pallidum,Anaerobe
+tpo,686990,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema pallidum,Anaerobe
+tpp,455434,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema pallidum,Anaerobe
+tpt,390874,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga,Thermotoga petrophila,Anaerobe
+tpu,491081,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema pallidum,Anaerobe
+tpw,243276,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,Treponema pallidum,Anaerobe
+tro,309801,Bacteria,Chloroflexi,Thermomicrobia,Thermomicrobiales,Thermomicrobiaceae,Thermomicrobium,Thermomicrobium roseum,Aerobe
+trq,126740,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga,[],Anaerobe
+tsi,604354,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus sibiricus,Anaerobe
+tta,688269,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Pseudothermotoga,Pseudothermotoga thermarum,Anaerobe
+tte,273068,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Caldanaerobacter,Caldanaerobacter subterraneus,Anaerobe
+tth,262724,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus thermophilus,Aerobe
+ttj,300852,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus thermophilus,Aerobe
+ttl,798128,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus thermophilus,Aerobe
+ttm,580327,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Thermoanaerobacterium,Thermoanaerobacterium thermosaccharolyticum,Anaerobe
+ttn,768679,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Thermoproteus,Thermoproteus tenax,Anaerobe
+tts,762633,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus thermophilus,Aerobe
+twh,203267,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,[],Tropheryma,Tropheryma whipplei,Aerobe
+twi,697303,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Thermoanaerobacter,Thermoanaerobacter wiegelii,Anaerobe
+tws,218496,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,[],Tropheryma,Tropheryma whipplei,Aerobe
+upa,505682,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Ureaplasma,Ureaplasma parvum,Facultative
+uue,565575,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Ureaplasma,Ureaplasma urealyticum,Facultative
+uur,273119,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Ureaplasma,Ureaplasma parvum,Facultative
+van,882102,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio anguillarum,Aerobe
+vch,243277,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,Facultative
+vcj,593588,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,Facultative
+vcl,935297,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,Facultative
+vcm,579112,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,Facultative
+vco,345073,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,Facultative
+vcq,666,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,[],Facultative
+vcr,345073,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,Facultative
+vcx,666,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,[],Facultative
+vcz,666,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,[],Facultative
+vex,150340,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,[],Facultative
+vfi,312309,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Aliivibrio,Aliivibrio fischeri,Facultative
+vfm,388396,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Aliivibrio,Aliivibrio fischeri,Facultative
+vir,403957,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Virgibacillus,[],Aerobe
+vmo,985053,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Vulcanisaeta,Vulcanisaeta moutnovskia,Anaerobe
+vok,412965,Bacteria,Proteobacteria,Gammaproteobacteria,[],[],[],Calyptogena okutanii thioautotrophic gill symbiont,Anaerobe
+vpa,223926,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Facultative
+vsa,316275,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Aliivibrio,Aliivibrio salmonicida,Facultative
+vsp,575788,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio tasmaniensis,Facultative
+vvu,216895,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,Facultative
+vvy,196600,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,Facultative
+wbm,292805,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Wolbachia,Wolbachia endosymbiont of Brugia malayi,Aerobe
+wol,163164,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Wolbachia,[],Aerobe
+wpi,570417,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Wolbachia,Wolbachia endosymbiont of Culex quinquefasciatus,Aerobe
+wri,66084,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Wolbachia,[],Aerobe
+xac,190486,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas citri,Aerobe
+xal,380358,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas albilineans,Aerobe
+xau,78245,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Xanthobacter,Xanthobacter autotrophicus,Facultative
+xax,981368,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas alfalfae,Aerobe
+xbo,406818,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Xenorhabdus,Xenorhabdus bovienii,Facultative
+xcb,314565,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas campestris,Aerobe
+xcc,190485,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas campestris,Aerobe
+xfa,160492,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Aerobe
+xff,788929,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Aerobe
+xfm,405440,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Aerobe
+xfn,405441,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Aerobe
+xfs,155920,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Aerobe
+xft,183190,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Aerobe
+xne,406817,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Xenorhabdus,Xenorhabdus nematophila,Facultative
+xom,342109,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas oryzae,Aerobe
+xoo,291331,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas oryzae,Aerobe
+xop,360094,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas oryzae,Aerobe
+xor,383407,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas oryzae,Aerobe
+yen,393305,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Aerobe
+ypa,360102,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,Facultative
+ypb,502801,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pseudotuberculosis,Facultative
+ypc,633,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,[],Facultative
+ypd,637382,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,Facultative
+ype,214092,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,Facultative
+ypf,748672,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pseudotuberculosis,Facultative
+ypg,349746,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,Facultative
+yph,547048,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,Facultative
+ypi,349747,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pseudotuberculosis,Facultative
+ypj,632,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,[],Facultative
+ypk,187410,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,Facultative
+ypl,632,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,[],Facultative
+ypm,229193,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,Facultative
+ypn,377628,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,Facultative
+ypo,273123,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pseudotuberculosis,Facultative
+ypp,386656,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,Facultative
+ypq,633,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,[],Facultative
+ypr,633,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,[],Facultative
+yps,273123,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pseudotuberculosis,Facultative
+ypu,633,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,[],Facultative
+ypv,632,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,[],Facultative
+ypw,632,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,[],Facultative
+ypx,637385,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,Facultative
+ypz,637386,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,Facultative
+zga,63186,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Zobellia,[],Aerobe
+zin,871271,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Candidatus Zinderia,Candidatus Zinderia insecticola,Anaerobe
+zmb,627344,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Zymomonas,Zymomonas mobilis,Facultative
+zmn,622759,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Zymomonas,Zymomonas mobilis,Facultative
+zmo,264203,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Zymomonas,Zymomonas mobilis,Facultative
+zpr,655815,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Zunongwangia,Zunongwangia profunda,Aerobe
